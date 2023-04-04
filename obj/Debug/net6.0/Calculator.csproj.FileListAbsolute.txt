@@ -1,0 +1,15 @@
+C:\Projetos\Csharp\Baltaio\Calculator\bin\Debug\net6.0\Calculator.exe
+C:\Projetos\Csharp\Baltaio\Calculator\bin\Debug\net6.0\Calculator.deps.json
+C:\Projetos\Csharp\Baltaio\Calculator\bin\Debug\net6.0\Calculator.runtimeconfig.json
+C:\Projetos\Csharp\Baltaio\Calculator\bin\Debug\net6.0\Calculator.dll
+C:\Projetos\Csharp\Baltaio\Calculator\bin\Debug\net6.0\Calculator.pdb
+C:\Projetos\Csharp\Baltaio\Calculator\obj\Debug\net6.0\Calculator.csproj.AssemblyReference.cache
+C:\Projetos\Csharp\Baltaio\Calculator\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Csharp\Baltaio\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+C:\Projetos\Csharp\Baltaio\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+C:\Projetos\Csharp\Baltaio\Calculator\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Projetos\Csharp\Baltaio\Calculator\obj\Debug\net6.0\Calculator.dll
+C:\Projetos\Csharp\Baltaio\Calculator\obj\Debug\net6.0\refint\Calculator.dll
+C:\Projetos\Csharp\Baltaio\Calculator\obj\Debug\net6.0\Calculator.pdb
+C:\Projetos\Csharp\Baltaio\Calculator\obj\Debug\net6.0\Calculator.genruntimeconfig.cache
+C:\Projetos\Csharp\Baltaio\Calculator\obj\Debug\net6.0\ref\Calculator.dll
